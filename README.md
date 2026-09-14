@@ -1,9 +1,10 @@
 <div align="center">
 
-<!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1B4D,100:1F0A17&height=200&section=header&text=Hi%20There,%20I'm%20Jhananishri%20B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20|%20Building%20Production-Grade%20Intelligent%20Systems&descAlignY=58&descSize=16" width="100%"/>
+# Hi There, I'm Jhananishri B 👋
 
-<br/><br/>
+**AI & Data Science &nbsp;|&nbsp; Building Production-Grade Intelligent Systems**
+
+<br/>
 
 <!-- Typing animation -->
 <a href="#">
@@ -21,8 +22,6 @@
 
 <!-- ===================== ABOUT ME ===================== -->
 ## 🎯 About Me
-
-<img align="right" alt="girl coding illustration" width="360" src="assets/study-illustration.svg" />
 
 ```javascript
 const jhananishri = {
@@ -194,7 +193,6 @@ GNN-based system using **Graph Attention Networks (GAT)** on heterogeneous trans
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F0A17,100:6A1B4D&height=120&section=footer"/>
 
 <i>⭐️ "Building production-grade, performance-aware software — not just academic prototypes."</i>
 </div>
