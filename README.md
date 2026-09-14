@@ -7,7 +7,7 @@
 
 <!-- Typing animation -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=D6336C&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Third-Year+B.Tech+AI+%26+Data+Science+Student;Building+GNN-powered+Fraud+%26+Recommendation+Systems;Full-Stack+Developer+%7C+React.js+%2B+MongoDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=D6336C&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Third-Year+B.Tech+AI+%26+Data+Science+Student;Building+GNN-powered+Fraud+%26+Recommendation+Systems" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -22,7 +22,7 @@
 <!-- ===================== ABOUT ME ===================== -->
 ## 🎯 About Me
 
-<img align="right" alt="coding gif" width="320" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg" />
+<img align="right" alt="girl coding illustration" width="360" src="assets/study-illustration.svg" />
 
 ```javascript
 const jhananishri = {
@@ -42,13 +42,14 @@ const jhananishri = {
 jhananishri.sayHi();
 ```
 
-- 🔭 Actively preparing for **AI Engineering roles**, with a focus on ML fundamentals, DSA and scalable software systems
-- 🧠 Hands-on experience building **ML-based applications** and **full-stack systems** in collaborative team environments
-- 🚀 Currently strengthening **algorithmic problem-solving** and **ML system design** — moving from prototypes to production
-- ✍️ I write about AI/ML concepts for beginners on **Medium**
-- 🤗 Exploring open-source models on **Hugging Face**
-- 💬 Ask me about **Graph Neural Networks, GATs, React.js full-stack builds, or DSA in Python/Java**
+* 🔭 Actively preparing for **AI Engineering roles**, with a focus on ML fundamentals, DSA and scalable software systems
+* 🧠 Hands-on experience building **ML-based applications** and **full-stack systems** in collaborative team environments
+* 🚀 Currently strengthening **algorithmic problem-solving** and **ML system design** — moving from prototypes to production
+* ✍️ I write about AI/ML concepts for beginners on **Medium**
+* 🤗 Exploring open-source models on **Hugging Face**
+* 💬 Ask me about **Graph Neural Networks, GATs, React.js full-stack builds, or DSA in Python/Java**
 
+<br/>
 <br/>
 
 <!-- ===================== SKILLS ===================== -->
