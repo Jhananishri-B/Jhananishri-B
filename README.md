@@ -1,14 +1,16 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1B4D,100:1F0A17&height=220&section=header&text=Hi%20There,%20I'm%20Jhananishri%20B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20|%20Building%20Production-Grade%20Intelligent%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1B4D,100:1F0A17&height=200&section=header&text=Hi%20There,%20I'm%20Jhananishri%20B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20|%20Building%20Production-Grade%20Intelligent%20Systems&descAlignY=58&descSize=16" width="100%"/>
+
+<br/><br/>
 
 <!-- Typing animation -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=D6336C&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Third-Year+B.Tech+AI+%26+Data+Science+Student;Building+GNN-powered+Fraud+%26+Recommendation+Systems;Full-Stack+Developer+%7C+React.js+%2B+MongoDB+%2B+Python;170%2B+LeetCode+Problems+Solved+and+Counting..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=D6336C&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Third-Year+B.Tech+AI+%26+Data+Science+Student;Building+GNN-powered+Fraud+%26+Recommendation+Systems;Full-Stack+Developer+%7C+React.js+%2B+MongoDB" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Jhananishri-B&label=Profile%20Views&color=ad1457&style=flat-square" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/Jhananishri-B?label=Followers&style=flat-square&color=ad1457" alt="followers"/>
@@ -22,23 +24,22 @@
 
 <img align="right" alt="coding gif" width="320" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg" />
 
-```python
-class Jhananishri:
-    def __init__(self):
-        self.name = "Jhananishri B"
-        self.role = "AI & Data Science Undergraduate"
-        self.institute = "Bannari Amman Institute of Technology, Erode"
-        self.cgpa = 8.67
-        self.year = "Third Year (Class of 2028)"
-        self.focus = ["Machine Learning", "Graph Neural Networks",
-                      "Full-Stack Systems", "DSA"]
-        self.currently_building = "production-grade, deployment-ready AI"
+```javascript
+const jhananishri = {
+  name: "Jhananishri B",
+  role: "AI & Data Science Undergraduate",
+  institute: "Bannari Amman Institute of Technology, Erode",
+  cgpa: 8.67,
+  year: "Third Year (Class of 2028)",
+  focus: ["Machine Learning", "Graph Neural Networks", "Full-Stack Systems", "DSA"],
+  currentlyBuilding: "production-grade, deployment-ready AI",
 
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something intelligent!")
+  sayHi() {
+    console.log("Thanks for stopping by — let's build something intelligent!");
+  }
+};
 
-me = Jhananishri()
-me.say_hi()
+jhananishri.sayHi();
 ```
 
 - 🔭 Actively preparing for **AI Engineering roles**, with a focus on ML fundamentals, DSA and scalable software systems
@@ -132,10 +133,8 @@ GNN-based system using **Graph Attention Networks (GAT)** on heterogeneous trans
 ## 💡 Problem Solving
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/JHANANISHRIB?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/JHANANISHRIB?theme=dark&font=baloo&ext=heatmap&border=false" alt="LeetCode Heatmap"/>
 </div>
-
-<p align="center">🧩 <b>170+ problems solved</b> across Arrays, Strings, Recursion, Hashing & Dynamic Programming — ongoing progression on <a href="https://leetcode.com/u/JHANANISHRIB/">LeetCode</a>.</p>
 
 <br/>
 
